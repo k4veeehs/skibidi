@@ -23,7 +23,7 @@
 
 .top-nav .title {
     text-transform: uppercase;
-} 
+}
 
 .nav li .nav-link {
     padding: .5rem;
@@ -51,6 +51,7 @@
 
 .body-nav h4 {
     font-size: 2rem;
+    padding-bottom: 2rem;
 }
 
 .body-nav h4 a {
@@ -61,5 +62,20 @@
 
 .body-nav h4 a:hover {
     text-decoration: underline;
+}
 
+.website-link {
+    padding-top: 1rem;
+}
+
+.body-nav button {
+    border: none;
+}
+
+.btn-shop {
+    background-color: #a35353;
+    color: white;
+    text-decoration: none;
+    padding: 1rem;
+    font-size: 1.5rem;
 }
